@@ -48,7 +48,12 @@ a {
   text-decoration: none;
   display: inline-block;
 }
-
+.fab{
+  transform: translateY(5px);
+}
+.fa, .fas {
+  transform: translateY(5px);
+}
 /*----------------------------------------------------
 header
 -------------------------------------------------------*/
